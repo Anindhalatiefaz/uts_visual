@@ -86,7 +86,7 @@ Connection conn = new KoneksiDB().getKoneksi();
 
 ### Pada Package Form, buatlah jFrame Form dengan nama `FormBiodata.`
 
-![img](img/9.png)
+![img](img/1.png)
 
 ### Set Properties :
 
